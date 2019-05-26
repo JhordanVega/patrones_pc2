@@ -1,0 +1,44 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06/04/2019, 09:13:27 AM
+    Author     : Administrador
+*/
+
+.marco {
+    border: solid black 2px;
+    background: hsl(95, 50%, 50%);
+    margin-top: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.marco2 {
+    border: solid black 2px;
+    background: hsl(76, 50%, 50%);
+    margin-top: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.btnVolver{
+    border: solid black 1px;
+    padding: 5px 10px;
+    background: hsl(45, 50%, 50%);
+    color: white;
+    border-radius: 7px;
+    margin-top: 15px;
+    display: inline-block;
+}
+
+.btnVolver:hover{
+     background: hsl(200, 50%, 50%);
+     color: white;
+     text-decoration: none;
+}
+.colorTexto{
+    color: white;
+}
